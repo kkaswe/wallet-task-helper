@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_description">仅在你点击开始后，读取钱包任务页面并操作下载安装、体验和领取。体验等待16/11/16秒，支持暂停与停止。内容仅在手机本地处理；不自动同意应用隐私协议、不登录、不兑换会员。可随时关闭此服务。</string>
+</resources>
